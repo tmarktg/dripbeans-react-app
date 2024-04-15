@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/tmarktg/dripbeans-react-app/static/css/main.31d6cfe0.css",
+    "main.js": "/tmarktg/dripbeans-react-app/static/js/main.01218f73.js",
+    "index.html": "/tmarktg/dripbeans-react-app/index.html",
+    "main.01218f73.js.map": "/tmarktg/dripbeans-react-app/static/js/main.01218f73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.01218f73.js"
+  ]
+}
